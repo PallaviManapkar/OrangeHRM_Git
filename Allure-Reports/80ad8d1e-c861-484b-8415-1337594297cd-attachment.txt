@@ -1,0 +1,9 @@
+INFO     Test_Login:test_login.py:30 Testcase test_login_002 is started
+INFO     Test_Login:test_login.py:31 Opening browser
+INFO     Test_Login:test_login.py:34 Entering Username
+INFO     Test_Login:test_login.py:36 Entering Password
+INFO     Test_Login:test_login.py:38 Clicking on Login Button
+INFO     Test_Login:test_login.py:40 Checking Login Status
+INFO     Test_Login:test_login.py:44 Clicking on Menu Button
+INFO     Test_Login:test_login.py:46 Clicking on Logout Button
+INFO     Test_Login:test_login.py:49 Testcase test_login_002 is passed

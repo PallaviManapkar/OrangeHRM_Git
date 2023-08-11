@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_Login:test_login.py:29 Testcase test_login_002 is started
+[32mINFO    [0m Test_Login:test_login.py:30 Opening browser
+[32mINFO    [0m Test_Login:test_login.py:33 Entering Username

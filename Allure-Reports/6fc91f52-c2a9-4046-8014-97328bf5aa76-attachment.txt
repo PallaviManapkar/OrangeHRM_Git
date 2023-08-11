@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_Login:test_login.py:12 Testcase test_page_title_001 is started
+[32mINFO    [0m Test_Login:test_login.py:13 Opening browser

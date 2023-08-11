@@ -1,0 +1,1 @@
+pytest -v -s --html=HTML_Reports/R1_OrangeHRM.html --alluredir="Allure-Reports"

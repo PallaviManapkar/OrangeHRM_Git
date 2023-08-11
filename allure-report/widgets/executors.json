@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":2,"buildName":"Project_OrangeHRM #2","buildUrl":"http://localhost:8080/job/Project_OrangeHRM/2/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/Project_OrangeHRM/2/allure"}]
